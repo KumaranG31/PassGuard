@@ -1,0 +1,11 @@
+{
+  "name": "passguard",
+  "version": "1.0.0",
+  "description": "PassGuard project initialized with npm",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo \"Start your development server here\""
+  },
+  "author": "",
+  "license": "ISC"
+}
